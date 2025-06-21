@@ -12,69 +12,69 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Addictions/ADD_Alcohol.ADD_Alcohol.WithdrawalName,,B9F329DF445DE40474A4A58F98EEC43C,alcohol withdrawal,abstinência alcoólica
 /Game/Vein/Addictions/ADD_Caffeine.ADD_Caffeine.AddictionName,,F2050D4041F716DEBE6BF1A318ABAFB7,caffeine,cafeína
 /Game/Vein/Addictions/ADD_Caffeine.ADD_Caffeine.WithdrawalName,,7378B37B47CEA6C8484E5DB7048020A4,caffeine withdrawal,abstinência de cafeína
-/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.AddictionName,,2C8F9C394A8D948443707A8F22090D11,cocaine,
-/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.WithdrawalName,,E627DB014D1FCDDBBB9D05915B2DA06D,cocaine withdrawal,
+/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.AddictionName,,2C8F9C394A8D948443707A8F22090D11,cocaine,cocaína
+/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.WithdrawalName,,E627DB014D1FCDDBBB9D05915B2DA06D,cocaine withdrawal,abstinência de cocaína
 /Game/Vein/Addictions/ADD_Nicotine.ADD_Nicotine.AddictionName,,708FAFD146871A114CAACDB666A6EBEE,nicotine,nicotina
 /Game/Vein/Addictions/ADD_Nicotine.ADD_Nicotine.WithdrawalName,,8BB6C97A4B47C5AD22B35A9F8AA40A38,nicotine withdrawal,abstinência de nicotina
 /Game/Vein/Addictions/ADD_Opioid.ADD_Opioid.AddictionName,,949659DA4DD4D6EFEFD437A2E1CFF3E5,opioid,opioide
 /Game/Vein/Addictions/ADD_Opioid.ADD_Opioid.WithdrawalName,,589A174B402003160B4226852E11A8AC,opioid withdrawal,abstinência de opioides
 /Game/Vein/Animals/BP_Cow.BP_Cow_C:Inventory_GEN_VARIABLE.Name,,4BDD80F0472E631F869C04AA6AAFC52E,Cow,Vaca
-/Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.PetAnimalText,Vein,PetCow,You pet the cow.,
+/Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.PetAnimalText,Vein,PetCow,You pet the cow.,Você acaricia a vaca
 /Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.UsableName,,37BE359F4B69EEC66AF6FA8F7D34A71A,Cow,Vaca
 /Game/Vein/Animals/BP_DeerMale.BP_DeerMale_C:Inventory_GEN_VARIABLE.Name,,FBABE0534F2CAA41A4B0BD9A7C125DCC,Deer,Cervo
-/Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.PetAnimalText,Vein,PetDeer,You pet the deer.,
+/Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.PetAnimalText,Vein,PetDeer,You pet the deer.,Você acaricia o cervo
 /Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.UsableName,,D5212A1E41004CD09CF51993C1A84532,Deer,Cervo
 /Game/Vein/Animals/BP_Fox.BP_Fox_C:Inventory_GEN_VARIABLE.Name,,570A3366417755BB724B5F8C503374E2,Fox,Raposa
-/Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.PetAnimalText,Vein,PetFox,You pet the fox.,
+/Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.PetAnimalText,Vein,PetFox,You pet the fox.,Você acaricia a raposa
 /Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.UsableName,,0D2AD82A4034996FA2D52B872FA07269,Fox,Raposa
 /Game/Vein/Animals/BP_Pig.BP_Pig_C:Inventory_GEN_VARIABLE.Name,,75BA5B62459E461DDC427DB7332F8353,Pig,Porco
-/Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.PetAnimalText,Vein,PetPig,You pet the pig.,
+/Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.PetAnimalText,Vein,PetPig,You pet the pig.,Você acaricia o porco
 /Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.UsableName,,9D65371C42B05465A0A72C83A2EF605E,Pig,Porco
 /Game/Vein/Animals/BP_Wolf.BP_Wolf_C:Inventory_GEN_VARIABLE.Name,,5D4A002242A158B8B9D170B79943F405,Wolf,Lobo
-/Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.PetAnimalText,Vein,PetWolf,You pet the wolf.,
+/Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.PetAnimalText,Vein,PetWolf,You pet the wolf.,Você acaricia o lobo
 /Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.UsableName,,1411B9CE4472D4D5FCC9828FFDB3623B,Wolf,Lobo
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(0).Flexes.FlexName,,6B4CE6A6429949F3F004B1B9F2EF9208,Wink,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(1).Flexes.FlexName,,BACDEB5F46CCF730A8822F9E6A5126A4,Triumph,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(10).Flexes.FlexName,,E3FE3E1A4101AA7ABA7555A76001FF65,Serious,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(11).Flexes.FlexName,,DCBDEDA74DDD898B243B7782385A6F50,Scream,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(12).Flexes.FlexName,,6E3D67964FF1C18221C634A1243F3942,Sarcastic,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(13).Flexes.FlexName,,D2B1E9E343B500D2EC755B84246D64A6,Sad,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(14).Flexes.FlexName,,63B222F74B9964E4A472C983BE8E25F5,Rage,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(10).Flexes.FlexName,,E3FE3E1A4101AA7ABA7555A76001FF65,Serious,Sério
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(11).Flexes.FlexName,,DCBDEDA74DDD898B243B7782385A6F50,Scream,Grito
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(12).Flexes.FlexName,,6E3D67964FF1C18221C634A1243F3942,Sarcastic,Sarcástico
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(13).Flexes.FlexName,,D2B1E9E343B500D2EC755B84246D64A6,Sad,Triste
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(14).Flexes.FlexName,,63B222F74B9964E4A472C983BE8E25F5,Rage,Raiva
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(15).Flexes.FlexName,,573E026C46AC86E652B7FB8846D45F2C,Pouty,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(16).Flexes.FlexName,,3762CC0048E71EC626ED65BBF9273552,Pleased,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(17).Flexes.FlexName,,5B36F38F4EC30D3B4599A6AEC17AF5F6,Pain,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(18).Flexes.FlexName,,5FAFC99B488D2B5AE5009DB457797E65,Irritated,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(19).Flexes.FlexName,,63C8D2F34786CCA82B012A8393F05FE4,Incredulous,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(2).Flexes.FlexName,,427ED4374CFA130F737E99B663A46CA6,Tired,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(20).Flexes.FlexName,,A1CE93E845B97F28DEDF14ABEB25E7A8,Ill,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(16).Flexes.FlexName,,3762CC0048E71EC626ED65BBF9273552,Pleased,Satisfeito
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(17).Flexes.FlexName,,5B36F38F4EC30D3B4599A6AEC17AF5F6,Pain,Dor
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(18).Flexes.FlexName,,5FAFC99B488D2B5AE5009DB457797E65,Irritated,Irritado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(19).Flexes.FlexName,,63C8D2F34786CCA82B012A8393F05FE4,Incredulous,Incrédulo
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(2).Flexes.FlexName,,427ED4374CFA130F737E99B663A46CA6,Tired,Cansado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(20).Flexes.FlexName,,A1CE93E845B97F28DEDF14ABEB25E7A8,Ill,doente
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(21).Flexes.FlexName,,E62D474649FFBC4D710F0BB076802EBA,Ignore,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(22).Flexes.FlexName,,E66B99784D8864CEC276D5A385FE34D8,Happy,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(22).Flexes.FlexName,,E66B99784D8864CEC276D5A385FE34D8,Happy,Feliz
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(23).Flexes.FlexName,,6A3829C944B9DDAF72EB8FBB07072EC0,Glare,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(24).Flexes.FlexName,,C94DC45B4274514FF0EC93AD070AC58C,Frown,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(25).Flexes.FlexName,,9A56A804441DCAECEBF0EB88C931C600,Flirting,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(25).Flexes.FlexName,,9A56A804441DCAECEBF0EB88C931C600,Flirting,Flertando
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(26).Flexes.FlexName,,93E103E649BD3AA362B8CF800B4AFDB3,Fierce,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(27).Flexes.FlexName,,6B8E446A48B96CBAACA89488D6F67761,Fear,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(28).Flexes.FlexName,,FC51855440B31A9C952C04892CCA2FE6,Excitement,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(29).Flexes.FlexName,,B9FA73F641563AD8E9A0ABA7880365E5,Drunk,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(3).Flexes.FlexName,,60E49AAC429C627A622A3FA2D018EFFD,Suspicious,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(30).Flexes.FlexName,,D4FBDB6842AEFBDC464B49A9C65D95D0,Disgust,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(31).Flexes.FlexName,,8EF9AF7642FED15BBB9600B05DC4CEF2,Desire,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(27).Flexes.FlexName,,6B8E446A48B96CBAACA89488D6F67761,Fear,Com medo
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(28).Flexes.FlexName,,FC51855440B31A9C952C04892CCA2FE6,Excitement,Animado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(29).Flexes.FlexName,,B9FA73F641563AD8E9A0ABA7880365E5,Drunk,Bêbado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(3).Flexes.FlexName,,60E49AAC429C627A622A3FA2D018EFFD,Suspicious,Suspeito
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(30).Flexes.FlexName,,D4FBDB6842AEFBDC464B49A9C65D95D0,Disgust,Nojo
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(31).Flexes.FlexName,,8EF9AF7642FED15BBB9600B05DC4CEF2,Desire,Desejo
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(32).Flexes.FlexName,,A1CF1D654CD7633F1DCC5C869C5221C5,Contempt,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(33).Flexes.FlexName,,9D86FB174118D65CFEB382B16C1BF242,Confused,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(34).Flexes.FlexName,,4481CA4549E876963209599D696C7B0C,Confident,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(35).Flexes.FlexName,,FE985BE942E1D8DA4BD01BAF10DDA242,Concentrate,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(36).Flexes.FlexName,,1003199642C0A1FB4578EA99E9A794EB,Bored,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(33).Flexes.FlexName,,9D86FB174118D65CFEB382B16C1BF242,Confused,Confusp
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(34).Flexes.FlexName,,4481CA4549E876963209599D696C7B0C,Confident,Confiante
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(35).Flexes.FlexName,,FE985BE942E1D8DA4BD01BAF10DDA242,Concentrate,Concentrado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(36).Flexes.FlexName,,1003199642C0A1FB4578EA99E9A794EB,Bored,Entediado
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(37).Flexes.FlexName,,25B98FE445989E96DA00BEB7F305F274,Bereft,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(38).Flexes.FlexName,,01A56FFA40CBB393D869128C120DBD3B,Angry,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(39).Flexes.FlexName,,B778D5824518D2BB66D3D8A7FCC892F5,Afraid,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(4).Flexes.FlexName,,8869E15D4C6EC2F633D58F8DC5E08AED,Surprised,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(38).Flexes.FlexName,,01A56FFA40CBB393D869128C120DBD3B,Angry,Irritado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(39).Flexes.FlexName,,B778D5824518D2BB66D3D8A7FCC892F5,Afraid,Assustado
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(4).Flexes.FlexName,,8869E15D4C6EC2F633D58F8DC5E08AED,Surprised,Surpreso
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(40).Flexes.FlexName,,1513F86D480DD531F70035942B207823,Eye Look Up-Down,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(41).Flexes.FlexName,,9D9C061345E3127E35BCAA9073593337,Eye Look Side-Side,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(5).Flexes.FlexName,,DE8FD42143FEF0A1E3585DA6871D7A65,Snarl,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(6).Flexes.FlexName,,BC2AC1EF4B1B79271A2228A73FB13BF2,Smile Open Full Face,
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(7).Flexes.FlexName,,1CBEF0B94AC588FA5F722C8CA6E48732,Smile Full Face,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(8).Flexes.FlexName,,CDB6A8D34C81A2E3BC0633B3802D868F,Silly,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(9).Flexes.FlexName,,816197BB4771898A2AA81D8E12362EFB,Shock,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(8).Flexes.FlexName,,CDB6A8D34C81A2E3BC0633B3802D868F,Silly,Bobo
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(9).Flexes.FlexName,,816197BB4771898A2AA81D8E12362EFB,Shock,Chocado
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(0).Flexes.FlexName,,8A0A599F40B2BCC1941C878E6BED8115,Nose Whole Width,Largura total do nariz
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(1).Flexes.FlexName,,629A776047FAAEE9666D4387C457C43F,Nose Whole Size,Tamanho inteiro do nariz
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(10).Flexes.FlexName,,E91AA663426636B237B394978F25DDE2,Nose Bridge Width,Largura da ponte nasal
@@ -162,16 +162,16 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,59FB1718468A97CFB3FECDA017EBD841,You drain the sink.,Você esvazia a pia.
 /Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C0C89F449AA04DE668093AC524B4AF1,Drain Sink,Esvaziar Pia
 /Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,4FECB2F44D0FB9022C52A1B56841A35E,You drink some of the water in the sink.,Você bebe um pouco da água da pia.
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,Pia de banheiro
 /Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F91E5EEF4B7BE844076C088D2F69209B,You fill the sink full of water.,Você enche a pia com água.
 /Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A86F8DB7489384E797701D9A05DF2A94,Fill Sink,Encher Pia
 /Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:Furniture_GEN_VARIABLE.UsableName,,5802E85646ABDC59272F22AA9A8F9E83,Sink,Pia
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,Você esvazia a pia
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,Esvaziar pia
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,Você bebe um pouco da água que está na pia.
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,Pia
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,Você enche a pia com água
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,Encher pia
 /Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:Furniture_GEN_VARIABLE.UsableName,,572E98B04C0C86B8EA12F997CA0740D1,Bathroom Sink,Pia de Banheiro
 /Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F1C3CAEF46E18B1B9103C6BCB2C341EE,You drain the sink.,Você esvazia a pia.
 /Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,2CCFD6194BEE88D2C15D7CB43DA79E2C,Drain Sink,Esvaziar Pia
@@ -192,8 +192,8 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableName,,E50A3FAE463E381E4185D69B488D9C1C,Campfire,Fogueira
 /Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableOptionName,,DC4020A14E93E7EC47B9F1ADD4271E8B,Use,Usar
 /Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C:Workbench.UsableName,,23C42EAA480D0130068783A52E4063F8,Campfire,Fogueira
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:Furniture_GEN_VARIABLE.UsableName,,127CC7F24D15A7DB77097CAF5538372E,Candy Machine,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton1_GEN_VARIABLE.Subtitle,,D7744C244F85E22549BE088F22DE0B11,Candy,
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:Furniture_GEN_VARIABLE.UsableName,,127CC7F24D15A7DB77097CAF5538372E,Candy Machine,Máquina de doces
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton1_GEN_VARIABLE.Subtitle,,D7744C244F85E22549BE088F22DE0B11,Candy,Doce
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton2_GEN_VARIABLE.Subtitle,,B14B37D44D9EFBA8F1FED786DA76243E,Candy,
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton3_GEN_VARIABLE.Subtitle,,249A80E4456A83BAD710E1A22E07C750,Capsule,
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton_GEN_VARIABLE.Subtitle,,1DAF4DB441BAD8C83CB640933064FD7B,Candy,
@@ -201,11 +201,11 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,937854854D47561DE5AB2F851052BE0B,Makeshift Charcoal Kiln,
 /Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,73C453334125997701107689FBA4C802,Makeshift Charcoal Kiln,
 /Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:Furniture_GEN_VARIABLE.UsableName,,67DADC0A4F2B27D707C437B17975672B,L-Shaped Chemistry Counter w/ Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,9D61560448485BF098C715915EED5C53,You drain the sink.,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.Label,,5CE5FECC434776E7220DEA9BBDFB1918,Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,BD44273C46463081FBC57C9197B9310E,You fill the sink.,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,48A819784A98C1E71417A79B939F73DB,Fill Sink,
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,9D61560448485BF098C715915EED5C53,You drain the sink.,Você esvazia a pia
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,Esvaziar pia
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.Label,,5CE5FECC434776E7220DEA9BBDFB1918,Sink,Pia
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,BD44273C46463081FBC57C9197B9310E,You fill the sink.,Você enche a pia
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,48A819784A98C1E71417A79B939F73DB,Fill Sink,Encher pia
 /Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Furniture_GEN_VARIABLE.UsableName,,65F1BA474B673C3AAF7675A979562222,Coffee Machine,Máquina de Café
 /Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:WaterSource_GEN_VARIABLE.Label,,C9F4A75A4EB42C626655BB95D52AEDAC,Coffee Machine,Máquina de Café
 /Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7567E3584DA6F64954D600856C0C6B96,Coffee Machine,
@@ -220,15 +220,15 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.Label,,AA6492364104722E6661F99F2971ACEF,Sink,Pia
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,D86D1B7448B5F11FFB6DF2BD423B11F9,You fill the sink.,Você enche a pia.
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,6F0543C3491E08EFF3D9168C35FBFAC8,Fill Sink,Encher Pia
-/Game/Vein/Appliances/BP_Counter_05_Dishwasher.BP_Counter_05_Dishwasher_C:Furniture_GEN_VARIABLE.UsableName,,B1A99B1642026ED4041620B0E0CC5DD5,Dishwasher,
-/Game/Vein/Appliances/BP_Counter_05_Dishwasher.Default__BP_Counter_05_Dishwasher_C:Inventory.Name,,C51BC88F493E3975579F34BAC44C5935,Dishwasher,
-/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Furniture_GEN_VARIABLE.UsableName,,866FA3DA42BDAF5F24124084E23DB8DC,Microphone,
-/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Microphone_GEN_VARIABLE.UsableName,,D180151A4B4B37D73DE4E9B5E302070B,Microphone,
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Furniture_GEN_VARIABLE.UsableName,,15B93CB64171B76288A18BA99D35A899,Dryer,
+/Game/Vein/Appliances/BP_Counter_05_Dishwasher.BP_Counter_05_Dishwasher_C:Furniture_GEN_VARIABLE.UsableName,,B1A99B1642026ED4041620B0E0CC5DD5,Dishwasher,Máquina lava-louças
+/Game/Vein/Appliances/BP_Counter_05_Dishwasher.Default__BP_Counter_05_Dishwasher_C:Inventory.Name,,C51BC88F493E3975579F34BAC44C5935,Dishwasher,Máquina lava-louças
+/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Furniture_GEN_VARIABLE.UsableName,,866FA3DA42BDAF5F24124084E23DB8DC,Microphone,Microfone
+/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Microphone_GEN_VARIABLE.UsableName,,D180151A4B4B37D73DE4E9B5E302070B,Microphone,Microfone
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Furniture_GEN_VARIABLE.UsableName,,15B93CB64171B76288A18BA99D35A899,Dryer,Secadora
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,231C6B8E4EBB70A8366CC59775DC2D4E,Put clothes inside and turn on to reduce their wetness.,
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.UsableName,,AD566E754A4A66EDF86479968CCDC1AC,Dryer,
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Wireable_GEN_VARIABLE.UsableName,,86A88A3C41C2604D5D82D8BC7E8AAA94,Dryer,
-/Game/Vein/Appliances/BP_Dryer.Default__BP_Dryer_C:Inventory.Name,,D2A7EE8140EDD23BAEE3EC8CC0229AF2,Dryer,
+/Game/Vein/Appliances/BP_Dryer.Default__BP_Dryer_C:Inventory.Name,,D2A7EE8140EDD23BAEE3EC8CC0229AF2,Dryer,Secadora
 /Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpBodyText,,B685517A43FA55241A2EAA9FD973D020,Place batteries in this to charge them. The charger needs to be wired up to power to function.,
 /Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpTitleText,,D47BDBA04ED735AFFA8C84A1A84D4401,Battery Charger,
 /Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.Name,,D30E9E12461686B29B6FFAA3618C195A,Battery Charger,Carregador de bateria
